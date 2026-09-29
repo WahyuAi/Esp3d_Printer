@@ -1,0 +1,11 @@
+.history/
+# File kuncian KiCad (Lock files)
+~*.lck
+
+# File sementara Freerouting
+*.dsn
+*.ses
+
+# Folder cadangan (Backups)
+*-backups/
+*.bak
